@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Project 5 Files:
 
-You can use the [editor on GitHub](https://github.com/edguti3rrez/cis111-p5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edguti3rrez/cis111-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- confettiGIF.gif: A gif to display ona successful hangman.
+- Lab-08.html: Coffee related webpage with buttons to be manipulated by Lab-08.js.
+- Lab-08.js: Adds/removes DOM elements through events (buttons) and updates the list of favorite coffee drinks.
+- Lab-09.html: A phonetic verbalizer with NATO phrases. 
+- Lab-09.js: Takes apart the inputted word from the html and relpaces each letter with the matching NATO phonetic.
+- NATO_Phonetics.png: An image to display in the Lab-09.html with the NATO phonetics list.
+- p5-words.js: Random list of 50 words for hangman.
+- p5.html: The hangman webpage that has guessing buttons and updates the guessed letters.
+- p5.js: Handles several buttons to start/restart and guess letters in a hangman game. It will also update the correct guesses and the incorrect list in the html.

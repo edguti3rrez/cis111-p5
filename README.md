@@ -9,3 +9,6 @@
 - p5-words.js: Random list of 50 words for hangman.
 - p5.html: The hangman webpage that has guessing buttons and updates the guessed letters.
 - p5.js: Handles several buttons to start/restart and guess letters in a hangman game. It will also update the correct guesses and the incorrect list in the html.
+
+#### Sample:
+  <img src="./p5-congrats.png" alt="p5-congrats.png">
